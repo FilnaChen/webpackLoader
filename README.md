@@ -1,1 +1,2 @@
 # webpackLoader
+一个简单的自定义webpack loader插件示例
